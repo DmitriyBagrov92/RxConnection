@@ -1,0 +1,6 @@
+framework module Pods_RxConnectionTests {
+  umbrella header "Pods-RxConnectionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
