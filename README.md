@@ -5,7 +5,7 @@ Lightweight connection service based on RxSwift and Alamofire
 
 With Cocoapods. Until desctribution you can use it with:
 ```
-pod RxConnection, :git => 'https://github.com/DmitriyBagrov92/rxConnection.git'
+pod RxConnection, :git => 'https://github.com/DmitriyBagrov92/RxConnection.git'
 ```
 
 ###### Using:
